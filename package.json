@@ -1,0 +1,23 @@
+{
+  "name": "sass-partials",
+  "version": "1.0.0",
+  "description": "sass-partials",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass /Users/artem/desktop/projects/sass-partials/index.scss > /Users/artem/desktop/projects/sass-partials/index.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggh0stt1/sass-partials.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggh0stt1/sass-partials/issues"
+  },
+  "homepage": "https://github.com/ggh0stt1/sass-partials#readme",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
