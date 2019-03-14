@@ -4,7 +4,7 @@
   "description": "sass-partials",
   "main": "index.js",
   "scripts": {
-    "sass": "node-sass /Users/artem/desktop/projects/sass-partials/index.scss > /Users/artem/desktop/projects/sass-partials/index.css"
+    "sass": "node-sass index.scss > /Users/artem/desktop/projects/sass-partials/index.css"
   },
   "repository": {
     "type": "git",
